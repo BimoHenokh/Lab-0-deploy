@@ -1,1 +1,1 @@
-gunicorn projectcoba.wsgi --log-file -
+web: gunicorn projectcoba.wsgi --log-file -
